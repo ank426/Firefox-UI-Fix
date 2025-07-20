@@ -8,7 +8,7 @@
       @include moz-document(regexp "^(?!.*\\.pdf\\?n).*") {
         #outerContainer {
           --sidebaritem-bg-color: #38383D;
-          --uc-pdf-dark-filter: grayscale(10%) invert(90%);
+          --uc-pdf-dark-filter: invert(100%);
         }
 
         #sidebarContainer > #sidebarContent > #thumbnailView .thumbnailImage {

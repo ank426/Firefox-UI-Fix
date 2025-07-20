@@ -21,3 +21,12 @@
   display: none !important;
 }
 */
+
+
+toolbarbutton#back-button,
+toolbarbutton#forward-button,
+toolbarbutton#reload-button,
+toolbarbutton#stop-button,
+image.tab-close-button.close-icon {
+  display: none !important;
+}
