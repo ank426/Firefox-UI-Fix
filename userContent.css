@@ -2,3 +2,9 @@
 @import url("css/leptonContent.css");
 
 /** Add your custom styles below **********************************************/
+
+/* @-moz-document domain("youtube.com") { */
+/*     html { */
+/*         filter: brightness(0.8) !important; */
+/*     } */
+/* } */
