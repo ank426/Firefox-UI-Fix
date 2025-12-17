@@ -28,6 +28,6 @@ toolbarbutton#forward-button,
 toolbarbutton#reload-button,
 toolbarbutton#stop-button,
 /* hbox#star-button-box.urlbar-page-action, */ /* needed for editing and removing bookmarks */
-image.tab-close-button.close-icon {
+.tabbrowser-tab .tab-close-button {
   display: none !important;
 }
